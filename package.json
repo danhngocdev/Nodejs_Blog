@@ -22,7 +22,8 @@
   },
   "homepage": "https://github.com/danhngocdev/Nodejs_Blog#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "express-load": "^1.1.16"
   },
   "devDependencies": {
     "morgan": "^1.10.0",
